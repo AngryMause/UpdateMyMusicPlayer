@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "41040548910",
+    "firebase_url": "https://music-service-cc380.firebaseio.com",
+    "project_id": "music-service-cc380",
+    "storage_bucket": "music-service-cc380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41040548910:android:372e914d462f33eeee7bbf",
+        "android_client_info": {
+          "package_name": "com.example.mymusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41040548910-q851rre3umvqna7uksc0ij7c4cvm6n4k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mymusicplayer",
+            "certificate_hash": "1314949b25164f4fa5264a2f545308d2b31fe482"
+          }
+        },
+        {
+          "client_id": "41040548910-t0qg9ila3qlada3bb7890aml66kmgb65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY0DW5jgayCSg2Z4vU38h-IBQGowxGdZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41040548910-t0qg9ila3qlada3bb7890aml66kmgb65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

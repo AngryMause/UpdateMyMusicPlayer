@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="220dp"
+    android:layout_marginStart="4dp"
+    android:backgroundTint="#FFFFFF"
+    android:backgroundTintMode="src_in">
+
+    <ImageView
+        android:id="@+id/image_play_list_one"
+        android:layout_width="87dp"
+        android:layout_height="89dp"
+        android:background="@drawable/ic_mask_group_two" />
+
+    <ImageView
+        android:id="@+id/image_play_list_two"
+        android:layout_width="87dp"
+        android:layout_height="89dp"
+        android:layout_toRightOf="@id/image_play_list_one" />
+
+    <ImageView
+        android:id="@+id/image_play_list_three"
+        android:layout_width="87dp"
+        android:layout_height="89dp"
+        android:layout_below="@id/image_play_list_one" />
+
+    <ImageView
+        android:id="@+id/image_play_list_four"
+        android:layout_width="87dp"
+        android:layout_height="89dp"
+        android:layout_below="@id/image_play_list_two"
+        android:layout_toRightOf="@id/image_play_list_three" />
+
+
+    <ImageView
+        android:id="@+id/open_play_playlist"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="63dp"
+        android:layout_marginTop="67dp"
+        android:background="@drawable/elips"
+        android:rotationX="-6" />
+
+    <ImageView
+        android:layout_width="12dp"
+        android:layout_height="12dp"
+        android:layout_marginStart="83dp"
+        android:layout_marginTop="82dp"
+        android:background="@drawable/exo_icon_play" />
+
+
+    <TextView
+        android:id="@+id/playlist_name"
+        android:layout_width="174dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_play_list_three"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="2dp"
+        android:text="@string/sample_name_playlist"
+        android:textAlignment="center"
+        android:textColor="@color/text_no_action_color"
+        android:textStyle="italic" />
+
+
+</RelativeLayout>

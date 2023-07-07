@@ -1,0 +1,34 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/shape_song_image.xml" value="0.2645" />
+        <entry key="app/src/main/res/drawable/style_seekbar.xml" value="0.2645" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/botom_curren_song_navigation.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/flragment_play_music.xml" value="0.3684210526315789" />
+        <entry key="app/src/main/res/layout/fragment_album.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_artist.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/fragment_playlist.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/fragment_song_list.xml" value="0.18645833333333334" />
+        <entry key="app/src/main/res/layout/list_music_item.xml" value="0.17325227963525835" />
+        <entry key="app/src/main/res/layout/rv_playlist_stayle.xml" value="0.17325227963525835" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3582427536231884" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

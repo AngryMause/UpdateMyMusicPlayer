@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "820759516502",
+    "project_id": "musicservice-767a0",
+    "storage_bucket": "musicservice-767a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820759516502:android:e81c7e6d0dee09035b72f7",
+        "android_client_info": {
+          "package_name": "com.example.mymusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820759516502-n2ggkdoj0dnbreggskifnppd6d3bu6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQka_dMyGXBUHlIcyYr3wEJn1l3y1GU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820759516502-n2ggkdoj0dnbreggskifnppd6d3bu6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820759516502:android:c80de51b333ded905b72f7",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820759516502-n2ggkdoj0dnbreggskifnppd6d3bu6um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxQka_dMyGXBUHlIcyYr3wEJn1l3y1GU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820759516502-n2ggkdoj0dnbreggskifnppd6d3bu6um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
